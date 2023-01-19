@@ -14,15 +14,15 @@ LICENCE: [MIT](/license.md)
 * [git commit](/git%20commit.md)
 * [git clone](/git%20clone.md)
 ### * Работа с удалённым репозиторием
-  * git remote add
-  * git fetch
-  * git merge
-  * git pull
-  * git push
+  * [git remote add](/git%20remote%20add.md)
+  * [git fetch](/git%20fetch.md)
+  * [git merge](/git%20merge.md)
+  * [git pull](/git%20pull.md)
+  * [git push](/git%20push.md)
 ### * Получение данных о состоянии репозитория
-  * git status
-  * git log
-  * git show
+  * [git status](/git%20status.md)
+  * [git log](/git%20log.md)
+  * [git show](/git%20show.md)
 ---
 Git Logo by Jason Long - http://git-scm.com/downloads/logos
 LICENSE: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
