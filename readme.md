@@ -13,13 +13,13 @@ LICENCE: [MIT](/license.md)
 * [git add](/git%20add.md)
 * [git commit](/git%20commit.md)
 * [git clone](/git%20clone.md)
-### * Работа с удалённым репозиторием
+###  Работа с удалённым репозиторием
   * [git remote add](/git%20remote%20add.md)
   * [git fetch](/git%20fetch.md)
   * [git merge](/git%20merge.md)
   * [git pull](/git%20pull.md)
   * [git push](/git%20push.md)
-### * Получение данных о состоянии репозитория
+###  Получение данных о состоянии репозитория
   * [git status](/git%20status.md)
   * [git log](/git%20log.md)
   * [git show](/git%20show.md)
